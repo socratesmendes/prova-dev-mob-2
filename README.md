@@ -10,7 +10,7 @@ Este projeto é um aplicativo móvel para cadastro de livros, desenvolvido usand
 
 1. Clone o repositório:
    bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/socratesmendes/prova-dev-mob-2
 
 2. Instale as dependências:
    cd nome-do-repositorio
