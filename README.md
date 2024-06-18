@@ -1,5 +1,3 @@
-<img width="230" alt="excluir-livro" src="https://github.com/socratesmendes/prova-dev-mob-2/assets/71992518/81e742af-7103-4f7a-a8a0-413672d921de"># Projeto de Cadastro de Livros
-
 Este projeto é um aplicativo móvel para cadastro de livros, desenvolvido usando React Native. O aplicativo permite que os usuários cadastrem livros e naveguem entre telas para visualizar e adicionar novos livros.
 
 ## Funcionalidades
